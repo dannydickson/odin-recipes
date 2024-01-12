@@ -1,1 +1,3 @@
-This is Danny’s first git project in Odin!
+# Odin HTML Recipes Project
+
+Part of the Odin Project HTML curriculum
